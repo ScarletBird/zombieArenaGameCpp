@@ -1,7 +1,39 @@
-﻿  TextureHolder.cpp
-  Zombie.cpp
-C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Zombie.cpp(46,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Zombie.cpp(127,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+﻿  Player.cpp
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(7,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(8,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(23,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(24,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(156,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(161,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(166,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(171,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(175,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(185,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\Player.cpp(191,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
   ZombieArena.cpp
 C:\Users\fgfog\Documents\Codes\VisualStudioStuff\zombieArenaGameCpp\ZombieArena\ZombieArena\ZombieArena.cpp(21,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
           with
